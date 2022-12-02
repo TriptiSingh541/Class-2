@@ -1,0 +1,6 @@
+hat ,ball
+folder
+cat
+pen 
+file
+
